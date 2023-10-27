@@ -1,0 +1,12 @@
+{
+  "sidebar": [
+    { "title": "Meet Migs", "routeTo": "#scroll3" },
+    { "title": "Mentorship", "routeTo": "#scroll8" },
+    { "title": "Discovery", "routeTo": "#scroll5" },
+    { "title": "Insure your future", "routeTo": "#scroll4" },
+    { "title": "Prime Investments", "routeTo": "#introduction" },
+    { "title": "Podcast", "routeTo": "#scroll9" },
+    { "title": "FAQ", "routeTo": "#scrollFaq" },
+    { "title": "Home", "routeTo": "#introduction" }
+  ]
+}

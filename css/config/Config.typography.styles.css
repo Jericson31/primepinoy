@@ -1,0 +1,116 @@
+.font-thin {
+  font-weight: 100;
+}
+.font-extralight {
+  font-weight: 200;
+}
+.font-light {
+  font-weight: 300;
+}
+.font-normal {
+  font-weight: 400;
+}
+.font-medium {
+  font-weight: 500;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-extrabold {
+  font-weight: 800;
+}
+.font-black {
+  font-weight: 900;
+}
+
+.font-color-white {
+  color: #fff;
+}
+.font-color-base {
+  color: #282626;
+}
+.font-color-baseLight {
+  color: #414141;
+}
+.font-color-accent {
+  color: #daae22;
+}
+.font-color-neutral {
+  color: #686868;
+}
+
+.bg-color-dark {
+  background-color: #2f2e2e;
+}
+.bg-color-dark2 {
+  background-color: #242323;
+}
+
+.text-sm {
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.75rem; /* 28px */
+}
+.text-base {
+  font-size: 1.875rem; /* 30px */
+  line-height: 2.25rem; /* 36px */
+}
+.text-base-logo {
+  font-size: 1.475rem; /* 30px */
+  line-height: 2.25rem; /* 36px */
+}
+.text-lg {
+  font-size: 4.5rem; /* 72px */
+  line-height: 1;
+}
+
+@media screen and (max-width: 400px) {
+  .text-sm {
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.75rem; /* 28px */
+  }
+  .text-base-logo {
+    font-size: 1.2rem; /* 30px */
+    line-height: 2.25rem; /* 36px */
+  }
+  .text-base {
+    font-size: 1.475rem; /* 30px */
+    line-height: 2.25rem; /* 36px */
+  }
+  .text-lg {
+    font-size: 2rem; /* 72px */
+    line-height: 1;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 900px) {
+  .text-sm {
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.75rem; /* 28px */
+  }
+  .text-base {
+    font-size: 1.875rem; /* 30px */
+    line-height: 2.25rem; /* 36px */
+  }
+  .text-lg {
+    font-size: 2.5rem; /* 72px */
+    line-height: 1;
+  }
+}
+
+@media screen and (min-width: 901px) {
+  .text-sm {
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.75rem; /* 28px */
+  }
+  .text-base {
+    font-size: 1.875rem; /* 30px */
+    line-height: 2.25rem; /* 36px */
+  }
+  .text-lg {
+    font-size: 2.75rem; /* 72px */
+    line-height: 1;
+  }
+}
