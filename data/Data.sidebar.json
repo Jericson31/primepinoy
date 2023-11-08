@@ -1,12 +1,13 @@
 {
   "sidebar": [
-    { "title": "Meet Migs", "routeTo": "#scroll3" },
-    { "title": "Mentorship", "routeTo": "#scroll8" },
-    { "title": "Discovery", "routeTo": "#scroll5" },
-    { "title": "Insure your future", "routeTo": "#scroll4" },
+    { "title": "Home", "routeTo": "#introduction" },
+    { "title": "Meet Migs", "routeTo": "#meetmigs" },
+    { "title": "Mentorship", "routeTo": "#mentorship" },
+    { "title": "Discovery", "routeTo": "#discovery" },
+    { "title": "Insure your future", "routeTo": "#insure" },
     { "title": "Prime Investments", "routeTo": "#introduction" },
-    { "title": "Podcast", "routeTo": "#scroll9" },
+    { "title": "Podcast", "routeTo": "#podcast" },
     { "title": "FAQ", "routeTo": "#scrollFaq" },
-    { "title": "Home", "routeTo": "#introduction" }
+    { "title": "About Us", "routeTo": "#aboutus" }
   ]
 }
