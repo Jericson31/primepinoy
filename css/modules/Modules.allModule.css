@@ -238,8 +238,6 @@
 .PartnersSectionContainer {
   min-height: 100vh;
   padding: 1rem;
-  background: url("../../assets/background/bg1.webp") center center / cover
-    no-repeat fixed;
 }
 .PartnersSectionLimiter {
   max-width: 1000px;
